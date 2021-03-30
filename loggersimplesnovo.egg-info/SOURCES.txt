@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+logger/__init__.py
+logger/logger.py
+loggersimplesnovo.egg-info/PKG-INFO
+loggersimplesnovo.egg-info/SOURCES.txt
+loggersimplesnovo.egg-info/dependency_links.txt
+loggersimplesnovo.egg-info/top_level.txt

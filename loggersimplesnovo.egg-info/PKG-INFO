@@ -1,0 +1,19 @@
+Metadata-Version: 1.2
+Name: loggersimplesnovo
+Version: 1.0.0
+Summary: Um simples Logger
+Home-page: https://github.com/NathanV-0109/Logger_modulo
+Author: Nathan Vilela
+Author-email: nathanvs@outlook.com
+License: MIT
+Project-URL: Código fonte, https://github.com/NathanV-0109/Logger_modulo
+Description: UNKNOWN
+Keywords: Logger simples
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: Portuguese (Brazilian)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Internationalization
+Classifier: Topic :: Scientific/Engineering

@@ -2,6 +2,7 @@
 
 **Logger Simplificado** é um logger de execução simples para
 facilitar o codificação e previnir possiveis erros
+`pip install -i https://test.pypi.org/simple/ loggersimplesnovo==1.0.0`
 
 ## Funções
 
